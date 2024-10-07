@@ -47,7 +47,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For inquiries, please reach out to [your-email@example.com](mailto:your-email@example.com).
-```
-
-Feel free to customize the contact information and any other sections to better fit your project needs!
+For inquiries, please reach out to [ahmedmoiz962@gmail.com.com](mailto:ahmedmoiz962@gmail.com).
