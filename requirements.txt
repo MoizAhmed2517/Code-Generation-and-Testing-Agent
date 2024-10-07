@@ -1,0 +1,10 @@
+llama-index
+langchain
+ollama
+fastapi
+html2text
+llama-index-core 
+llama-index-readers-file 
+llama-index-llms-ollama 
+llama-index-embeddings-huggingface
+python-dotenv
