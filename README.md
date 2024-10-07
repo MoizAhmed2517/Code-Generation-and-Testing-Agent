@@ -1,4 +1,4 @@
-```markdown
+
 # Code Generation and Testing Agent
 
 ## Overview
@@ -7,7 +7,6 @@ The Code Generation and Testing Agent is a Python-based tool designed to facilit
 ## Features
 - **Automated Code Generation**: Quickly generates code snippets based on provided prompts.
 - **Testing Integration**: Includes functionalities for testing generated code to ensure reliability.
-- **User-Friendly Interface**: Simple command-line interface for ease of use.
 
 ## Installation
 1. Clone the repository:
@@ -43,4 +42,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
 For inquiries, please reach out to [ahmedmoiz962@gmail.com](mailto:ahmedmoiz962@gmail.com).
-```
+
